@@ -3,7 +3,7 @@
 
 _Kharkiv, Ukraine_  
 _+38-097-468-56-60_  
-[dakhnovskiya@gmail.com](mail:to)  
+[dakhnovskiya@gmail.com](mailto:dakhnovskiya@gmail.com)  
 
 ---
 
